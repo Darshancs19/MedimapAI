@@ -1,0 +1,9 @@
+pandas
+sklearn
+LabelEncoder
+RandomForestClassifier
+GradientBoostingClassifier
+SVC
+MultinomialNB
+numpy
+pickle
