@@ -1,9 +1,5 @@
 pandas
-scikit-learn
-LabelEncoder
-RandomForestClassifier
-GradientBoostingClassifier
-SVC
-MultinomialNB
 numpy
-pickle
+scikit-learn
+flask
+joblib
